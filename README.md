@@ -3,9 +3,7 @@
 </h2>
 
 <div align="center">
-  <a href="#">
-    <img alt="中世ファンタジーの街並みが描かれたドット絵(ロゴ画像)" src="logo.png" width="200" height="200">
-  </a>
+  <img alt="中世ファンタジーの街並みが描かれたドット絵(ロゴ画像)" src="logo.png" width="200" height="200">
 </div>
 
 <div align="center">
