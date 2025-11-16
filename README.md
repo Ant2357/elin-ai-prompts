@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img alt="鎌と槌と十字架が描かれたドット絵" src="logo.png" width="200" height="200">
+    <img alt="中世ファンタジーの街並みが描かれたドット絵(ロゴ画像)" src="logo.png" width="200" height="200">
   </a>
 </div>
 
