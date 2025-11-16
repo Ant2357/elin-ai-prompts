@@ -15,6 +15,7 @@
 
 ## 対応している街の情報(Supported Town Info)
 * ミシリア
+* ウィロウ
 
 ## 使い方(Usage)
 Elin を起動し、Emmersive設定画面を開き、
