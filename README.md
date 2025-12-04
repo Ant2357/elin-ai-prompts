@@ -42,6 +42,9 @@ Elin を起動し、Emmersive設定画面を開き、
 * 必須 Mod として、Elin with AI が必要です。  
 [Elin with AI](https://steamcommunity.com/sharedfiles/filedetails/?id=3587340176 "Elin with AI")
 
+## Download as ZIP(zip 形式でダウンロード)
+[Release Elin AI Prompts Ver 1.0.0](https://github.com/Ant2357/elin-ai-prompts/releases/tag/v1.0.0 "Release Elin AI Prompts Ver 1.0.0")
+
 ## Author
 * Ant2357
 
